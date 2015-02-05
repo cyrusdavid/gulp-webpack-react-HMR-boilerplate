@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "css-loader": "^0.9.1",
+    "del": "^1.1.1",
+    "gulp": "^3.8.10",
+    "gulp-rev": "^3.0.0",
+    "gulp-uglify": "^1.1.0",
+    "gulp-usemin": "^0.3.11",
+    "jade": "^1.9.1",
+    "jsx-loader": "^0.12.2",
+    "less-loader": "^2.0.0",
+    "react": "^0.12.2",
+    "react-hot-loader": "^1.1.4",
+    "style-loader": "^0.8.3",
+    "webpack": "^1.5.3",
+    "webpack-dev-server": "^1.7.0"
+  }
+}
